@@ -1,0 +1,3 @@
+﻿  day2.cpp
+C:\Users\tho13\Desktop\c++\day2.cpp(22,35): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  c++.vcxproj -> C:\Users\tho13\Desktop\c++\Debug\c++.exe
